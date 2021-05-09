@@ -3,5 +3,5 @@ project(spoj-exercises-cpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(exercises
+add_executable(spoj-exercises-cpp
         src/BINOMS.cpp)
